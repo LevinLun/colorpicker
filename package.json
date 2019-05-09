@@ -1,0 +1,24 @@
+{
+  "name": "colorpicker",
+  "version": "1.0.0",
+  "description": "forked eyecom.ro color picker npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chocolinax/colorpicker.git"
+  },
+  "keywords": [
+    "eyecom.ro",
+    "color",
+    "picker"
+  ],
+  "author": "chocolinax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chocolinax/colorpicker/issues"
+  },
+  "homepage": "https://github.com/chocolinax/colorpicker#readme"
+}
